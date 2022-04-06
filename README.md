@@ -18,8 +18,11 @@ na grypę w Polsce w latach 2010-2019 do plików .csv.
   - **ouo_p** - procentowo **ouo_l**,
   - **inne_l** - inne przyczyny,
   - **inne_p** - procentowo **inne_l**,
+  - **dni** - dni,
+  - **miesiąc** - miesiąc,
+  - **rok** - rok,
   - **tydz** - tydzień,
-  - **data** - okres,
+  - **numer** - numer
 
 > Zachorowania i podejrzenia zachorowań na grypę
 
@@ -37,8 +40,11 @@ na grypę w Polsce w latach 2010-2019 do plików .csv.
   - **z_15_64** - zapadalność dla wieku 15-64 lat,
   - **l_65** - liczba dla wieku 65 lat i więcej,
   - **z_65** - zapadalność dla wieku 65 lat i więcej,
+  - **dni** - dni,
+  - **miesiąc** - miesiąc,
+  - **rok** - rok,
   - **tydz** - tydzień,
-  - **data** - okres,
+  - **numer** - numer
 
 > Zgony z powodu grypy
 
@@ -46,9 +52,12 @@ na grypę w Polsce w latach 2010-2019 do plików .csv.
 
   - **woj** - Województwo,
   - **suma** - liczba ogółem,
-  - **w_0.4** - liczba dla wieku 0-4 lat,
+  - **w_0_4** - liczba dla wieku 0-4 lat,
   - **w_5_14** - liczba dla wieku 5-14 lat,
   - **w_15_64** - liczba dla wieku 15-64 lat,
   - **w_65** - liczba dla wieku 65 lat i więcej,
+  - **dni** - dni,
+  - **miesiąc** - miesiąc,
+  - **rok** - rok,
   - **tydz** - tydzień,
-  - **data** - okres
+  - **numer** - numer
