@@ -1,13 +1,13 @@
 # Grypa w Polsce
 
 Konwersja tygodniowych meldunków o zachorowaniach i podejrzeniach zachorowań
-na grypę w Polsce w latach 2010-2019 do plików .csv.
+na grypę w Polsce w latach 2010-2021 do plików .csv.
 
 Źródło: Meldunki Epidemiologiczne, Narodowy Instytut Zdrowia Publicznego - PZH, http://wwwold.pzh.gov.pl/oldpage/epimeld/grypa/index.htm:
 
 > Skierowani do szpitala z powodu grypy lub podejrzenia grypy
 
-* **g_szpital_2010_2019.csv**:
+* **g_szpital_2010_2021.csv**:
 
   - **woj** - Województwo,
   - **o_l** - liczba ogółem,
@@ -26,7 +26,7 @@ na grypę w Polsce w latach 2010-2019 do plików .csv.
 
 > Zachorowania i podejrzenia zachorowań na grypę
 
-- **g_zachorowania_2010_2019.csv**:
+- **g_zachorowania_2010_2021.csv**:
 
   - **woj** - Województwo,
   - **o_l** - liczba ogółem,
@@ -48,7 +48,7 @@ na grypę w Polsce w latach 2010-2019 do plików .csv.
 
 > Zgony z powodu grypy
 
-- **g_zgony_2010_2019.csv**:
+- **g_zgony_2010_2021.csv**:
 
   - **woj** - Województwo,
   - **suma** - liczba ogółem,
